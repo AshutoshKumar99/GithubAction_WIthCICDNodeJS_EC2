@@ -1,4 +1,4 @@
-#Purpose - code should be automatically deplyed on ec2 instance when we push anything on main branch 
+#Purpose - code should be automatically deplyed on ec2 instance when we push anything on main branch.
 name: GitHub Actions For CICD with AWS EC2 | GitHub workflows | CICD
 
 on:
